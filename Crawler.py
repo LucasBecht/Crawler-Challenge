@@ -5,17 +5,14 @@ import pandas as pd
 import numpy as np
 from requests.api import head
 
-# The website i chose is Kabum, i also narrowed it down to only Video Cards, The "url" variable gets assigned the URL of the website
+# The website i chose is Kabum, i also narrowed it down to only Video Cards.
 url = "https://www.kabum.com.br/hardware/placa-de-video-vga"
 
-# Requests.get takes the contents of the website stored in the previous Variable, and gets saved in the "results" Variable
 results = requests.get(url)
 
-# From what i understood, this variable saves the information gathered from BeautifulSoup in a Format that lets Python read the Components of the page
 soup = BeautifulSoup(results.text, "html.parser")
 
-# This is the Storage of the information i want the bot to take.
-
+# Storage
 brand = []
 product = []
 price = []
