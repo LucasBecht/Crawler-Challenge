@@ -15,3 +15,6 @@ Installed additional tools that'll be useful for making the crawler: Request, Be
 After looking around on various guides, i managed to get good progress for today, i have classes now so i'll keep doing this tomorrow.
 next step it seems is to set up a Loop so i can make it read the other pages as well, and then obviously, extracting the actual information i want from the stuff,
 otherwise, good pace today.
+
+After days of trial and error, i managed to replicate the Crawler from the guides i was following, but trying to use that knowledge to create one for another website 
+is giving me trouble, trying to fix the HTTP i get from the website i chose, it seems like it's getting a different HTTP than the page i wanted.
