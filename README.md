@@ -21,4 +21,9 @@ is giving me trouble, trying to fix the HTTP i get from the website i chose, it 
 
 Managed to replicate a similar code from something i normally use (MyAnimeList, Crawler-MAL.py) to test the knowledge i got from the guide code. 
 still having trouble doing the same in the websites i chose (Kabum, Pichau.), i would need to make pretty big alterations to the code, and i don't have enough 
-knowledge to do that. still trying though
+knowledge to do that. still trying though.
+
+so for now:
+Crawler Following The Guide.py is the Crawler i made following a guide that i found, used it to test out the waters.
+Crawler-MAL.py takes the Top 50 Animes from the website, and saves it as a .csv, managed to understand and replicate the code well enough.
+Crawler.py is the code i wanted to try for the Hardware Websites (Kabum,Pichau), been having trouble making it work though.
