@@ -18,3 +18,7 @@ otherwise, good pace today.
 
 After days of trial and error, i managed to replicate the Crawler from the guides i was following (Crawler Following The Guide.py), but trying to use that knowledge to create one for another website 
 is giving me trouble, trying to fix the HTTP i get from the website i chose, it seems like it's getting a different HTTP than the page i wanted.
+
+Managed to replicate a similar code from something i normally use (MyAnimeList, Crawler-MAL.py) to test the knowledge i got from the guide code. 
+still having trouble doing the same in the websites i chose (Kabum, Pichau.), i would need to make pretty big alterations to the code, and i don't have enough 
+knowledge to do that. still trying though
