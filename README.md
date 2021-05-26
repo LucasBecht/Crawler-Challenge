@@ -27,7 +27,7 @@ so for now:
 
 **Crawler Following The Guide.py** is the Crawler i made following a guide that i found, used it to test out the waters.
 
-**Crawler-MAL.py** takes the Top 50 Animes from the website, and saves it as a .csv, managed to understand and replicate the code well enough.
+**Crawler-MAL.py** takes the Top 50 Animes from the website, and saves it as a .csv, managed to understand and alter the code i learned through the guide well enough.
 
 **Crawler.py** is the code i wanted to try for the Hardware Websites (Kabum,Pichau), been having trouble making it work though,
 when i try to scrape it using Find_all i cannot find any of the Divs i need, i need to figure out if i'm doing something wrong with the url request, or if i'm trying to find the wrong Divs, i checked robots.txt on both pages, and i think i'm allowed to scrape it normally, maybe not,
